@@ -1,5 +1,7 @@
 .menu {
   /* add correct code to place the menu correctly.*/
+display : flex;
+justify-content:  space-between;
 
   background-color: black;
   font-size: 30px;
